@@ -1,1 +1,1 @@
-# Netflix-OTT-project-in-HTML-CSS
+# Netflix-OTT-project-HTML-CSS
